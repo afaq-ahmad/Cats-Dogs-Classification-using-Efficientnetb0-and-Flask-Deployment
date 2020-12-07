@@ -1,0 +1,1 @@
+Add the training images here, around 4000 for each class of cats and dogs
