@@ -1,0 +1,7 @@
+numpy==1.19.1
+pillow
+torchvision
+scikit-learn
+flask
+werkzeug
+torch==1.7.0+cpu

@@ -1,6 +1,3 @@
-# Cats-Dogs-Classification-using-Efficientnetb0-and-Flask-Deployment-
-Cats Dogs Classification using Efficientnetb0 and Flask Deployment 
-
 ### Installation
 
 		•	Windows, Linux or macOS with Python ≥ 3.6
@@ -44,17 +41,4 @@ For interactive testing and visualization results, run the code
 		
 		python app.py
 
-![images/flask.jpg](images/flask.jpg)
 Then open the http://127.0.0.1:5000/
-
-### Results
-![images/efficientnetd0.jpg](images/efficientnetd0.jpg)
-I have use efficientnet-b0 model because it achieves both higher accuracy and better efficiency over existing CNNs, reducing parameter size and FLOPS by an order of magnitude. The weights are available in the directory weights/model_best.pth.tar to test the model on test data, below are the results achieved.
-
-Average Validation Accuracy: 95.2
-	
-|          |Cat     |Dog   |
-|----------|--------|------|
-|Precision	|0.957|	0.947|
-|Recall|	0.946|	0.958|
-|F-score|	0.952|	0.952|
