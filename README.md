@@ -28,6 +28,7 @@ To train and evaluate the model use " train_validator.py ", For details of the c
 
 		python train_validator.py --train_dir=dataset/training_set/ --test_dir=dataset/test_set/
 
+Download the pretrained weights from here [Dropbox](https://www.dropbox.com/s/2ujfug11x5mdg78/model_best.pth.tar?dl=0)
 #### Resume the Training:
 
 		python train_validator.py --train_dir=dataset/training_set/ --test_dir=dataset/test_set/ --resume=weight/model_best.pth.tar
