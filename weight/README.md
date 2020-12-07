@@ -1,0 +1,1 @@
+Download the weights from here: https://www.dropbox.com/s/2ujfug11x5mdg78/model_best.pth.tar?dl=0
